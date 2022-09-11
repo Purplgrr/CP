@@ -1,0 +1,14 @@
+D:\2 курс\kurs\testetstsss\Debug\testetstsss.vcxproj.AssemblyReference.cache
+D:\2 курс\kurs\testetstsss\Debug\testetstsss.Form1.resources
+D:\2 курс\kurs\testetstsss\Debug\testetstsss.vcxproj.GenerateResource.cache
+D:\2 курс\kurs\testetstsss\Debug\testetstsss.exe
+C:\projects\kurs\testetstsss\Debug\testetstsss.vcxproj.AssemblyReference.cache
+C:\projects\kurs\testetstsss\Debug\testetstsss.vcxproj.SuggestedBindingRedirects.cache
+C:\projects\kurs\testetstsss\Debug\testetstsss.Form1.resources
+C:\projects\kurs\testetstsss\Debug\testetstsss.vcxproj.GenerateResource.cache
+C:\projects\kurs\testetstsss\Debug\testetstsss.exe
+C:\projects\kurs\KM\Debug\testetstsss.vcxproj.AssemblyReference.cache
+C:\projects\kurs\KM\Debug\testetstsss.vcxproj.SuggestedBindingRedirects.cache
+C:\projects\kurs\KM\Debug\testetstsss.Form1.resources
+C:\projects\kurs\KM\Debug\testetstsss.vcxproj.GenerateResource.cache
+C:\projects\kurs\KM\Debug\ProjectTest.exe
