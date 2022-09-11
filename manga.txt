@@ -1,0 +1,12 @@
+comedy APOTHEOSIS 6
+drama Material_Peak 12
+mystery Sweet_Home 12
+webtoons Solo_Leveling 16
+romance SAO 18
+action Overgeared 30
+historical Nana 6
+comedy Kaiju 0
+mystery MEMORIZE 18
+webtoons Demon_Slayer 6
+romance Akiho 18
+action MIDZUKI 18
